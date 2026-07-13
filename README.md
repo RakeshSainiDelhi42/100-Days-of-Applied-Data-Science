@@ -1,5 +1,5 @@
 # 🚀 100 Days of Applied Data Science
-<big> current status : Day 10 completed <big\>
+<big> current status : Day 10 completed </big>
 Welcome to my **100 Days of Applied Data Science** repository! 
 
 This project is a daily commitment to bridging the gap between academic theory and real-world business application. Over the course of 100 days, I am translating the advanced concepts learned during my M.Tech degree into practical, code-driven solutions.
