@@ -1,22 +1,23 @@
-# Day 6: Relational Data (Merges & Joins)
+# 📊 Day 6: Relational Data (Merges & Joins)
 
 ## 🏢 The Business Scenario
-You have been granted access to two separate company databases. One holds customer personal demographic information (Age, Location), and the other holds their transactional purchase history. 
+The marketing team needed to know where to allocate their advertising budget. However, customer demographic data (Age, Location) and transactional data (Purchase amounts) lived in two entirely separate databases. 
 
 ## 🎯 The Objective
-The marketing team wants to know where to allocate their ad budget. Your goal is to:
 1. Load both datasets into memory.
-2. Join them together using a common "key" (`User_ID`).
-3. Group the customers into age brackets (18-25, 26-35, 36-50, 51+).
-4. Calculate the total amount spent by each demographic to see if older demographics spend more money.
+2. Perform a Relational Join using a common primary/foreign key (`User_ID`).
+3. Engineer a new categorical feature by grouping exact ages into marketing Age Brackets (18-25, 26-35, 36-50, 51+).
+4. Aggregate total revenue by demographic to identify the most valuable customer base.
 
-## 📊 Data Dictionary
-**1. users.csv**
-* `User_ID`: Unique identifier for the customer.
-* `Age`: The customer's age.
-* `Location`: The customer's city.
+## 🛠️ Tools & Libraries Used
+* **Python**
+* **Pandas** * `pd.merge()` for SQL-style Left Joins.
+  * `pd.cut()` for numerical binning/segmentation.
+  * `.groupby()` for aggregation.
 
-**2. purchases.csv**
-* `Purchase_ID`: Unique identifier for the transaction.
-* `User_ID`: The customer who made the purchase (The Foreign Key).
-* `Amount_Spent`: The dollar amount of the transaction.
+## 🧠 Key Learnings & Takeaways
+* **SQL Logic in Python:** Using `pd.merge(..., how='left')` mimics a SQL `LEFT JOIN`. This ensures that every single purchase is retained in the final dataframe, even if a user's demographic data was somehow missing.
+* **Continuous to Categorical:** Raw ages (e.g., 23, 45, 61) are difficult to group for high-level marketing reports. Using `pd.cut()` quickly translates continuous numerical data into discrete categorical bins for cleaner aggregation.
+
+---
+*This is Day 6 of my [100 Days of Applied Data Science](../README.md) journey.*
