@@ -1,0 +1,251 @@
+User_ID,Engagement_Score,Subscription_Tier,Acquisition_Channel
+USR_0001,61,Bronze,Social Media
+USR_0002,24,Free,Referral
+USR_0003,81,Free,SEO
+USR_0004,70,Free,Social Media
+USR_0005,30,Bronze,Referral
+USR_0006,92,Bronze,Referral
+USR_0007,96,Silver,SEO
+USR_0008,84,Free,SEO
+USR_0009,84,Free,Social Media
+USR_0010,97,Free,Referral
+USR_0011,33,Free,Referral
+USR_0012,12,Free,Referral
+USR_0013,31,Free,Social Media
+USR_0014,62,Free,SEO
+USR_0015,11,Bronze,Referral
+USR_0016,97,Free,Email
+USR_0017,39,Free,Email
+USR_0018,47,Free,Referral
+USR_0019,11,Silver,Email
+USR_0020,73,Free,SEO
+USR_0021,69,Silver,Referral
+USR_0022,30,Bronze,Social Media
+USR_0023,42,Free,Email
+USR_0024,85,Free,Referral
+USR_0025,67,Gold,SEO
+USR_0026,31,Free,SEO
+USR_0027,98,Free,SEO
+USR_0028,58,Free,Email
+USR_0029,68,Silver,Social Media
+USR_0030,51,Bronze,Email
+USR_0031,69,Silver,Email
+USR_0032,89,Bronze,SEO
+USR_0033,24,Free,Email
+USR_0034,71,Gold,Social Media
+USR_0035,71,Free,Social Media
+USR_0036,56,Free,Referral
+USR_0037,71,Silver,Referral
+USR_0038,60,Bronze,SEO
+USR_0039,64,Silver,Social Media
+USR_0040,73,Free,Social Media
+USR_0041,12,Bronze,SEO
+USR_0042,60,Free,Referral
+USR_0043,16,Free,Email
+USR_0044,30,Free,Social Media
+USR_0045,82,Free,Email
+USR_0046,48,Free,Email
+USR_0047,27,Free,Social Media
+USR_0048,13,Free,SEO
+USR_0049,98,Bronze,SEO
+USR_0050,69,Free,Referral
+USR_0051,23,Free,Referral
+USR_0052,18,Free,Email
+USR_0053,99,Free,Referral
+USR_0054,62,Silver,Email
+USR_0055,11,Bronze,SEO
+USR_0056,93,Bronze,SEO
+USR_0057,69,Free,Social Media
+USR_0058,80,Bronze,Referral
+USR_0059,53,Free,Referral
+USR_0060,17,Free,Referral
+USR_0061,56,Gold,Referral
+USR_0062,44,Bronze,SEO
+USR_0063,87,Free,SEO
+USR_0064,90,Bronze,SEO
+USR_0065,45,Silver,Referral
+USR_0066,59,Bronze,Referral
+USR_0067,13,Free,Social Media
+USR_0068,11,Free,Email
+USR_0069,15,Free,SEO
+USR_0070,63,Free,Referral
+USR_0071,13,Free,Referral
+USR_0072,63,Silver,Referral
+USR_0073,72,Silver,Referral
+USR_0074,27,Free,Referral
+USR_0075,99,Bronze,SEO
+USR_0076,53,Free,Email
+USR_0077,43,Silver,Social Media
+USR_0078,83,Free,Referral
+USR_0079,71,Free,Referral
+USR_0080,23,Free,Referral
+USR_0081,57,Free,Referral
+USR_0082,24,Free,Social Media
+USR_0083,81,Free,Referral
+USR_0084,87,Silver,SEO
+USR_0085,96,Free,Referral
+USR_0086,71,Free,Referral
+USR_0087,49,Gold,SEO
+USR_0088,94,Free,Referral
+USR_0089,89,Free,Social Media
+USR_0090,91,Free,Social Media
+USR_0091,62,Free,Referral
+USR_0092,33,Bronze,SEO
+USR_0093,35,Bronze,SEO
+USR_0094,98,Free,SEO
+USR_0095,69,Free,Social Media
+USR_0096,50,Free,Referral
+USR_0097,38,Gold,Referral
+USR_0098,24,Free,Social Media
+USR_0099,54,Gold,Email
+USR_0100,74,Silver,Social Media
+USR_0101,98,Free,Referral
+USR_0102,80,Bronze,Email
+USR_0103,18,Bronze,Referral
+USR_0104,97,Free,SEO
+USR_0105,10,Free,Referral
+USR_0106,17,Bronze,SEO
+USR_0107,97,Free,Referral
+USR_0108,72,Free,Social Media
+USR_0109,20,Free,SEO
+USR_0110,90,Gold,Social Media
+USR_0111,17,Silver,Email
+USR_0112,44,Free,Social Media
+USR_0113,44,Free,Email
+USR_0114,42,Free,Email
+USR_0115,14,Silver,Social Media
+USR_0116,50,Silver,Email
+USR_0117,37,Free,Social Media
+USR_0118,16,Bronze,Email
+USR_0119,82,Bronze,SEO
+USR_0120,81,Free,Referral
+USR_0121,21,Bronze,Email
+USR_0122,43,Free,Email
+USR_0123,42,Bronze,Email
+USR_0124,57,Free,Email
+USR_0125,32,Free,Social Media
+USR_0126,71,Free,SEO
+USR_0127,97,Free,Email
+USR_0128,46,Silver,Social Media
+USR_0129,53,Silver,Social Media
+USR_0130,95,Silver,Referral
+USR_0131,44,Free,Email
+USR_0132,74,Free,Social Media
+USR_0133,56,Silver,Social Media
+USR_0134,87,Silver,Social Media
+USR_0135,12,Free,Social Media
+USR_0136,10,Free,Social Media
+USR_0137,14,Free,SEO
+USR_0138,99,Bronze,Social Media
+USR_0139,23,Bronze,Referral
+USR_0140,36,Free,Email
+USR_0141,18,Free,Referral
+USR_0142,88,Free,Email
+USR_0143,24,Free,Social Media
+USR_0144,99,Silver,Email
+USR_0145,51,Free,SEO
+USR_0146,86,Free,Social Media
+USR_0147,60,Free,Social Media
+USR_0148,72,Bronze,Email
+USR_0149,61,Free,Email
+USR_0150,13,Free,Social Media
+USR_0151,32,Gold,Social Media
+USR_0152,24,Bronze,SEO
+USR_0153,52,Free,Social Media
+USR_0154,38,Free,Referral
+USR_0155,45,Free,Referral
+USR_0156,22,Free,SEO
+USR_0157,41,Free,SEO
+USR_0158,80,Free,Email
+USR_0159,68,Free,Email
+USR_0160,95,Free,Social Media
+USR_0161,37,Free,Referral
+USR_0162,75,Bronze,Referral
+USR_0163,51,Free,Email
+USR_0164,54,Silver,SEO
+USR_0165,71,Silver,SEO
+USR_0166,66,Free,SEO
+USR_0167,15,Free,SEO
+USR_0168,37,Bronze,Social Media
+USR_0169,37,Free,Referral
+USR_0170,53,Free,SEO
+USR_0171,93,Silver,Social Media
+USR_0172,39,Free,Email
+USR_0173,71,Free,SEO
+USR_0174,84,Bronze,Email
+USR_0175,98,Silver,Social Media
+USR_0176,71,Free,SEO
+USR_0177,10,Free,Email
+USR_0178,36,Free,SEO
+USR_0179,71,Free,Referral
+USR_0180,86,Free,Referral
+USR_0181,12,Bronze,SEO
+USR_0182,79,Bronze,Social Media
+USR_0183,81,Gold,SEO
+USR_0184,36,Free,Referral
+USR_0185,18,Free,Email
+USR_0186,71,Free,SEO
+USR_0187,46,Silver,SEO
+USR_0188,60,Free,Referral
+USR_0189,53,Free,Social Media
+USR_0190,33,Free,Referral
+USR_0191,88,Free,Email
+USR_0192,68,Free,Referral
+USR_0193,41,Free,Email
+USR_0194,97,Silver,Referral
+USR_0195,61,Free,Referral
+USR_0196,71,Silver,Email
+USR_0197,67,Free,Email
+USR_0198,61,Free,Email
+USR_0199,21,Gold,Referral
+USR_0200,48,Silver,Email
+USR_0201,11,Gold,Referral
+USR_0202,12,Silver,Email
+USR_0203,65,Silver,Social Media
+USR_0204,90,Free,Social Media
+USR_0205,68,Free,SEO
+USR_0206,11,Free,Email
+USR_0207,11,Free,Referral
+USR_0208,63,Free,Email
+USR_0209,96,Free,Email
+USR_0210,10,Gold,Social Media
+USR_0211,28,Free,SEO
+USR_0212,11,Bronze,Social Media
+USR_0213,62,Free,Social Media
+USR_0214,53,Free,Social Media
+USR_0215,99,Gold,Email
+USR_0216,41,Gold,SEO
+USR_0217,79,Free,SEO
+USR_0218,41,Bronze,Email
+USR_0219,77,Free,Email
+USR_0220,64,Free,SEO
+USR_0221,84,Gold,Social Media
+USR_0222,65,Free,Email
+USR_0223,26,Free,Social Media
+USR_0224,47,Bronze,SEO
+USR_0225,33,Free,Social Media
+USR_0226,78,Free,Referral
+USR_0227,79,Free,Email
+USR_0228,95,Silver,Email
+USR_0229,20,Free,Referral
+USR_0230,25,Gold,Referral
+USR_0231,82,Free,Social Media
+USR_0232,68,Free,SEO
+USR_0233,79,Free,Social Media
+USR_0234,89,Bronze,Referral
+USR_0235,12,Free,Referral
+USR_0236,29,Free,Referral
+USR_0237,68,Silver,Social Media
+USR_0238,45,Free,Email
+USR_0239,28,Free,Email
+USR_0240,99,Bronze,Email
+USR_0241,76,Free,SEO
+USR_0242,28,Free,SEO
+USR_0243,29,Free,Social Media
+USR_0244,80,Silver,SEO
+USR_0245,61,Free,Social Media
+USR_0246,42,Bronze,Email
+USR_0247,49,Free,Social Media
+USR_0248,48,Free,SEO
+USR_0249,91,Bronze,Social Media
+USR_0250,10,Free,SEO
